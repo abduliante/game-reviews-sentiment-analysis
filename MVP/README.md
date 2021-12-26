@@ -13,11 +13,14 @@ Our approach goes as follow:
 
 Running logistics regression and naive bayes algorithms yields these results:
 
-,LogReg,NB
-Accuracy,0.928,0.923
-Precision,0.935,0.948
-Recall,0.987,0.966
-F1 Score,0.960,0.957
+
+||LogReg                       |NB    |
+|------|-----------------------------|------|
+|Accuracy|0.928                        |0.923 |
+|Precision|0.935                        |0.948 |
+|Recall|0.987                        |0.966 |
+|F1 Score|0.960                        |0.957 |
+
 
 #### Confusion matrix:
 
