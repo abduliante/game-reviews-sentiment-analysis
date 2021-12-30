@@ -1,12 +1,10 @@
 # Game Reviews Sentiment Analysis
 
 # Abstract
-The game industry is projected to grow to 9.64% by 2026 (mordointelligence.com). The exponential growth rate leads to better understanding of gamers need in order to compete in this industry. Therefore, in our project we try to find out which game studio is serving the global gaming community based on the cumulative reviews of their products.
+The game industry is projected to grow to 9.64% by 2026 (mordointelligence.com). The exponential growth rate leads to better understanding of gamers need in order to compete in this industry. While game studios try their best to achieve players expectations, some of the gamers do not appreciate efforts put in developing games. Negative reviews are most likely associated with profanity. In our project, we seek to identify profranity based on negative portion of reviews. In addition, to build a recommendation system using collaborate filtering engine to match gamers with same similar taste in games.
 
 # Research Hypothesis:
-In our project, we are trying to identify whether the review made by player is a positive one or negative. In addition, we may find out the worthiness of every game based on our sentiment analysis.
-
-Moreover, negative reviews are segmented aside and to be analyzed for the level of toxicity of every reviewer.
+In our project, we are trying to identify whether the review made by player contains profanity. Moreover, build a model that predicts whether a certain review is considered profanity one.
 
 # Data Description
 This data has been obtained from [Kaggle](https://www.kaggle.com/najzeko/steam-reviews-2021) originally fetched using SteamAPI. The data is around 21 million records with 23 features (21 million reviews across more than 300 games). The features lists as follow:
