@@ -1,5 +1,7 @@
 # Game Reviews Sentiment Analysis
 
+This project is done as a part of Metis Kaplan course requirement in collaboration with [Fahad Alnafisa](https://github.com/FNafisa)
+
 # Abstract
 The game industry is projected to grow to 9.64% by 2026 (mordointelligence.com). The exponential growth rate leads to better understanding of gamers need in order to compete in this industry. While game studios try their best to achieve players expectations, some of the gamers do not appreciate efforts put in developing games. Negative reviews are most likely associated with profanity. In our project, we seek to identify profranity based on negative portion of reviews. In addition, to build a recommendation system using collaborate filtering engine to match gamers with same similar taste in games.
 
